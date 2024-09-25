@@ -4,16 +4,80 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        Vertica 
-        System Software Engineer, Data Management – Champaign, IL 05/2022 – 08/2022, Internship
-        • Resharding database table project, threadgroup conversion project
-        • Devised the core query engine components of Vertica
-        • High performance C++, python, bash, and SQL
-        • Parallel and concurrent designs</li>
-        • MicroFocus LLC: Digital transformation and Enterprise software Provider
-    
-   Atom Tech Solution
-        Full Stack Web Developer – Champaign, IL</li>12/2021 – 01/2022, Internship</li>• Yelp clone project with HTML, JavaScript.</li>• Designed function for user activities with MongoDB and Express.js. Samsung Biologics</li>IT Quality Systems Specialist, GIMC – Songdo, Republic of Korea 06/2021 – 08/2021, Global Intern</li>• Adapted the new Learning Management System via audit trailing.</li>• Assessed newly conducted data sampling.</li>• validated the cloud solution with UAT script runs.</li>• Collaborated with Vice President to present existing risks and solutions of the</li>new system.</li>University of Illinois at Urbana Champaign</li>Teaching Assistant (Database Management Systems) – Champaign, IL 08/2022 – 12/2022</li>• Proctored and managed creating homework, exams, and office hours for over 700 students.</li>• Topics taught: SQL, Database Design, Indexing, Transactions, Query Processing and Optimization, MongoDB, Neo4j</li>Text Information Management and Analysis Research Group Undergraduate Researcher – Champaign, IL</li>09/2021 – 05/2022</li>• Developed, reviewed, and debugged python code for executing test procedures and publication purposes.</li>• Improved accuracy and reduced computational requirements of ranking complex concepts in MOOCs.</li>• Constructed topic modeling from lecture transcript files. </div> 
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><strong>Vertica</strong><br /> <strong>System Software Engineer, Data Management &ndash; Champaign, IL 05/2022 &ndash; 08/2022, Internship</strong></p>
+<ul>
+<li>
+<p>Resharding database table project, threadgroup conversion project</p>
+</li>
+<li>
+<p>Devised the core query engine components of Vertica</p>
+</li>
+<li>
+<p>High performance C++, python, bash, and SQL</p>
+</li>
+<li>
+<p>Parallel and concurrent designs</p>
+</li>
+<li>
+<p>MicroFocus LLC: Digital transformation and Enterprise software Provider</p>
+</li>
+</ul>
+  
+<p><strong>Atom Tech Solution</strong><br /><strong> Full Stack Web Developer &ndash; Champaign, IL 12/2021 &ndash; 01/2022, Internship</strong></p>
+<ul>
+<li>
+<p>Yelp clone project with HTML, JavaScript.</p>
+</li>
+<li>
+<p>Designed function for user activities with MongoDB and Express.js.</p>
+</li>
+</ul>
+  
+<p><strong>Samsung Biologics</strong><br /> <strong>IT Quality Systems Specialist, GIMC &ndash; Songdo, Republic of Korea 06/2021 &ndash; 08/2021, Global Intern</strong></p>
+<ul>
+<li>
+<p>Adapted the new Learning Management System via audit trailing.</p>
+</li>
+<li>
+<p>Assessed newly conducted data sampling.</p>
+</li>
+<li>
+<p>validated the cloud solution with UAT script runs.</p>
+</li>
+<li>
+<p>Collaborated with Vice President to present existing risks and solutions of the</p>
+<p>new system.</p>
+</li>
+</ul>
+  
+<p><strong>University of Illinois at Urbana Champaign</strong><br /><strong> Teaching Assistant (Database Management Systems) &ndash; Champaign, IL 08/2022 &ndash; 12/2022</strong></p>
+<ul>
+<li>
+<p>Proctored and managed creating homework, exams, and office hours for over 700 students.</p>
+</li>
+<li>
+<p>Topics taught: SQL, Database Design, Indexing, Transactions, Query Processing and Optimization, MongoDB, Neo4j</p>
+</li>
+</ul>
+
+<p><strong>Text Information Management and Analysis Research Group <br /></strong><strong>Undergraduate Researcher &ndash; Champaign, IL&nbsp;</strong><strong>09/2021 &ndash; 05/2022</strong></p>
+<ul>
+<li>
+<p>Developed, reviewed, and debugged python code for executing test procedures and publication purposes.</p>
+</li>
+<li>
+<p>Improved accuracy and reduced computational requirements of ranking complex concepts in MOOCs.</p>
+</li>
+<li>
+<p>Constructed topic modeling from lecture transcript files.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -46,7 +110,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:hyunjun.ko1021@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyunjun.ko1021@gmail.com"> </a>
-         <a href=junsview.com> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=junsview.com"> </a>
+         <a href=junsview.com> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyunjun-ko-204583194/"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
