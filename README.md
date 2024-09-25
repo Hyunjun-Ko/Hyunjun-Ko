@@ -7,6 +7,22 @@
 <div class="page" title="Page 1">
 <div class="layoutArea">
 <div class="column">
+<p><strong>SW Military Occupational Specialty</strong><br /> <strong>Software Engineer &ndash; Seongnam, Gyeonggi, South Korea 04/2024 &ndash; 09/2025, Full-time/strong></p>
+<ul>
+<li>
+<p>Full stack developing web services used on the military intranet (defense network)</p>
+</li>
+<li>
+<p>Fixed bugs and resolved issues to ensure system stability.</p>
+</li>
+<li>
+<p>code refactoring legacy code.</p>
+</li>
+<li>
+<p>PHP, HTML5, Cascading Style Sheets (CSS), Spring Framework, Spring Boot, Java, Unix, JavaScript, MyBatis, MySql</p>
+</li>
+</ul>
+
 <p><strong>Vertica</strong><br /> <strong>System Software Engineer, Data Management &ndash; Champaign, IL 05/2022 &ndash; 08/2022, Internship</strong></p>
 <ul>
 <li>
